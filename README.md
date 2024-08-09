@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-  🌱 CS grad at the University of Central Florida, set to graduate May 2025 <br> 💭 Currently studying Generative AI and Large Language Models (LLMs) <br>🔭 Working on Consumer Behavior Analysis and Instance Segmentation with Computer Vision<br>⚡ Amateur guitarist, chess enthusiast, fitness buff<br>💬 Feel free to reach out! Email: akhil.nair1908@gmail.com 
+  🌱 CS grad at the University of Central Florida, set to graduate May 2025 <br> 💭 Currently working as a Summer Intern at zOpt.ai, I work in Data Analysis and Python scripting! <br>🔭 Working on Consumer Behavior Analysis and Instance Segmentation with Computer Vision<br>⚡ Amateur guitarist, chess enthusiast, fitness buff<br>💬 Feel free to reach out! Email: akhil.nair1908@gmail.com 
 
 
 ## 🌐 Socials:
