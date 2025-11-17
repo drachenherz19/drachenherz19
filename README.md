@@ -1,8 +1,8 @@
-## 👋 Hello there! I'm Akhil, Business Analyst turned ML aficionado.
+## 👋 Hello there! I'm Akhil, a Data Scientist @ UCF.
 
 
 ## 💫 About Me:
-  🌱 CS grad and Graduate Research Assistant at the University of Central Florida, set to graduate May 2025. <br> 💭 Currently working as a Summer Intern at zOpt.ai, I work in Data Analysis and Python scripting! <br>🔭 Working on Consumer Behavior Analysis and Instance Segmentation with Computer Vision<br>⚡ Amateur guitarist, chess enthusiast, fitness buff<br>💬 Feel free to reach out! Email: akhil.nair1908@gmail.com 
+  🌱 CS Masters and former Graduate Research/Teaching Assistant at the University of Central Florida. <br> 💭 I work in HealthTech Data Analysis and ML Modelling <br>🔭 Messing around with LLMs/Agentic AI/Diffusion Models!<br>⚡ Amateur guitarist, chess enthusiast, fitness buff<br>💬 Feel free to reach out! Email: akhil.nair1908@gmail.com 
 
 
 ## 🌐 Socials:
